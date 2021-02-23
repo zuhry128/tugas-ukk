@@ -16,7 +16,7 @@ if (isset($_GET['url']))
 		case 'detailpengaduan';
 		include 'detailpengaduan.php';
 		break;
-
+		
 		case 'lihattanggapan';
 		include 'lihattanggapan.php';
 		break;
